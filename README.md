@@ -6,7 +6,7 @@
 
 ## Supported Versions
 
-During the Beta phase, Minecraft Server Version **1.16.5** is the single compatible version. 1.17 support will _likely_ roll out in the first stable release. Major forks of Spigot 1.16.5 are also compatible!
+During the Beta phase, Minecraft Server Version **1.16.5** is the single compatible version. 1.17 support will _likely_ roll out in the first stable release. **Major forks of Spigot 1.16.5 are also compatible!**
 
 {% hint style="success" %}
 You can choose to run the plugin on a 1.16.5 server and use the ViaVersion Plugin to allow 1.17 players to play at the same time!

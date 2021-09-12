@@ -10,8 +10,11 @@ These are all the commands that are currently available in the plugin. This sect
 
 _Some of these commands are unavailable in the official beta versions of this plugin_
 
-  `/terminatorplus`
+        __`/terminatorplus`
+
 * > View plugin information
+  >
+  > **Alias:** `/tplus`
 
   `/bot create <name> [skin]`
 

@@ -2,7 +2,7 @@
 
 ### How Does It Work?
 
-TerminatorPlus Works as a **server plugin** to integrate with NMS and the Spigot API enabling the plugin to access methods that allow us to create a custom entity, in this case, a highly customizable bot designed to hunt gamers like you or your neighbour next door.
+TerminatorPlus works as a **server plugin** that integrates with NMS and the Spigot API enabling the plugin to access methods that allow us to create a custom entity, in this case, a highly customizable bot designed to hunt gamers like you or your neighbour next door.
 
 
 
