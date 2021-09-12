@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Commands](commands.md)
-* [Additional Info](context.md)
-* [Frequently Asked Questions](plugin-faq.md)
+* [Explanations](explanations.md)
+* [Frequently Asked Questions](faq.md)
 * [Discord](https://discord.gg/horsenuggets)
 * [GitHub](https://HorseNuggets/TerminatorPlus)
 * [YouTube](https://youtube.com/HorseNuggets)

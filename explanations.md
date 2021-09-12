@@ -1,6 +1,4 @@
-# Additional Info
-
-## Explanations
+# Explanations
 
 * **Spigot**
 
