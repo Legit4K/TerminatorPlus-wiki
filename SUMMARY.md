@@ -1,6 +1,6 @@
-## 🧁 Preperation
-
 * [Introduction](introduction.md)
+
+## 🧁 Preperation
 * [Commands](commands.md)
 
 ## 🍨 Additional Context
