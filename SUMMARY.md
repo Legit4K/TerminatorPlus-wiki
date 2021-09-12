@@ -1,13 +1,16 @@
-# Summary
+# Table of contents
+
 * [Introduction](README.md)
 
 ## 🧁 Preperation
-* [Commands](commands.md)
+
+* [Commands](preperation/commands.md)
+* [Download](preperation/download.md)
 
 ## 🍨 Additional Context
 
-* [Explanations](explanations.md)
-* [Frequently Asked Questions](faq.md)
+* [Explanations](additional-context/explanations.md)
+* [Frequently Asked Questions](additional-context/faq.md)
 
 ## 🍰 Social Links
 
