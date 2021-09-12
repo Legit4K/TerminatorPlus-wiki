@@ -1,5 +1,3 @@
-# Summary
-
 ## 🧁 Preperation
 
 * [Introduction](introduction.md)
