@@ -6,4 +6,5 @@
 * [Discord](https://discord.gg/horsenuggets)
 * [GitHub](https://HorseNuggets/TerminatorPlus)
 * [YouTube](https://youtube.com/HorseNuggets)
+* [Additional Info](context.md)
 
