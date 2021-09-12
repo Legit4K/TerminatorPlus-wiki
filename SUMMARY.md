@@ -1,5 +1,5 @@
 # Table of contents
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 
 ## 🧁 Preperation
 * [Commands](commands.md)
