@@ -2,7 +2,7 @@
 
 * **Spigot**
 
-> Spigot is a well known Minecraft Server Software. There are many more such as Paper, Tuinity and Purpur which are forks of Spigot which means that they are based on Spigot.
+> Spigot is a well known Minecraft Server Software. There are many more such as Paper, Tuinity and Purpur which are forks of Spigot so that means they are based on Spigot.
 
 * **ViaVersion**
 
@@ -10,11 +10,11 @@
 
 * **NPC**
 
-> NPCs are Non Player Characters. In the context of this plugin, NPC is simply another name for Bot. You can call it an alias.
+> NPCs are Non Player Characters. In the context of this plugin, NPC is simply another name for a Bot. You can call it an alias.
 
 * **Alias**
 
-> An Alias is an alternative name for something. For example, some commands have aliases so you can run the same function with different command names.
+> An Alias is an alternative name for something. For example, some commands have aliases so you can run the same function with different command names. `/tplus` **-&gt;** `/terminatorplus`
 
 * **Client**
 
@@ -30,7 +30,7 @@
 
 * **Mod**
 
-> Mods are amazing extensions to expand the capabilities of the Minecraft Game itself. They communicate and sometimes modify part of the **Client** to achieve this. Mods are not the same as Plugins so in this sense, **TerminatorPlus is not a Mod!**
+> Mods are amazing extensions to expand the capabilities of the Minecraft Game itself. They communicate and sometimes modify part of the **Client** to achieve this. Mods are not the same as Plugins so in this sense **TerminatorPlus is not a Mod!**
 
 * **Source Code**
 
@@ -42,7 +42,7 @@
 
 * **Machine Learning**
 
-> Machine learning is a branch of artificial intelligence \(AI\) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. In simpler terms, it is an artificial brain. In the context of TerminatorPlus, it is the bot's mind and it is where alot of decision making will happen for the bots.
+> Machine learning is a branch of artificial intelligence \(AI\) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. In simpler terms, it is an artificial brain. In the context of TerminatorPlus, it is the bot's mind and it is where alot of the decision making will happen for the bots.
 
 \*\*\*\*
 
