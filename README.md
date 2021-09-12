@@ -33,10 +33,10 @@ During the Beta phase, Minecraft Server Version **1.16.5** is the single compati
 
 ## Contributors
 
-* \*\*\*\*[**HorseNuggets**](https://github.com/HorseNuggets)\*\*\*\*
-* \*\*\*\*[**Legit4K**](https://github.com/Legit4K)\*\*\*\*
-* \*\*\*\*[**BattleDash**](https://github.com/BattleDash)\*\*\*\*
-* \*\*\*\*[**Badbird-5907**](https://github.com/Badbird-5907)\*\*\*\*
-* \*\*\*\*[**ThisTestUser**](https://github.com/ThisTestUser)\*\*\*\*
-* \*\*\*\*[**SyrFPS**](https://github.com/SyrFPS)\*\*\*\*
+* [**HorseNuggets**](https://github.com/HorseNuggets)
+* [**Legit4K**](https://github.com/Legit4K)
+* [**BattleDash**](https://github.com/BattleDash)
+* [**Badbird-5907**](https://github.com/Badbird-5907)
+* [**ThisTestUser**](https://github.com/ThisTestUser)
+* [**SyrFPS**](https://github.com/SyrFPS)
 
