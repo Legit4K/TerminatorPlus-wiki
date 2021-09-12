@@ -5,7 +5,7 @@
 ## 🧁 Preperation
 
 * [Commands](preperation/commands.md)
-* [Download](preperation/download.md)
+* [Downloads](preperation/downloads.md)
 
 ## 🍨 Additional Context
 
