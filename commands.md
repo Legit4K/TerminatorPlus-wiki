@@ -1,14 +1,14 @@
 # Commands
 
 {% hint style="info" %}
-These are all the commands that are currently available in the plugin. **This section also includes commands from the Alpha Version of the plugin!**
+These are all the commands that are currently available in the plugin. This section also includes commands from the **Alpha Version** of the plugin!
 
 `<>`**Required**
 
 `[]`**Optional**
 {% endhint %}
 
-* `/terminatorplus`
+  `/terminatorplus`
 * > View plugin information
 
   `/bot create <name> [skin]`
