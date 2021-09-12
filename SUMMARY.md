@@ -2,7 +2,7 @@
 
 ## 🧁 Preperation
 
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 * [Commands](commands.md)
 
 ## 🍨 Additional Context
