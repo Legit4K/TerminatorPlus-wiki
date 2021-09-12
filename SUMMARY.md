@@ -1,5 +1,7 @@
-## 🧁 Preperation
+# Summary
 * [Introduction](README.md)
+
+## 🧁 Preperation
 * [Commands](commands.md)
 
 ## 🍨 Additional Context
