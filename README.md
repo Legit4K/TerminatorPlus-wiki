@@ -1,3 +1,7 @@
+---
+description: "Hey humans, I've made this wiki to explain the project to new comers and answer common questions. Let me know how I did by clicking on one of the faces at the bottom of the page \U0001F600"
+---
+
 # Introduction
 
 ## Plugin Description
