@@ -1,5 +1,9 @@
 # Explanations
 
+{% hint style="info" %}
+### This Page explains key terms to help users understand this plugin to its fullest!
+{% endhint %}
+
 * **Spigot**
 
 > Spigot is a well known Minecraft Server Software. There are many more such as Paper, Tuinity and Purpur which are forks of Spigot so that means they are based on Spigot.
