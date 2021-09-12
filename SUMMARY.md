@@ -1,7 +1,5 @@
-# Table of contents
-* [Introduction](README.md)
-
 ## 🧁 Preperation
+* [Introduction](README.md)
 * [Commands](commands.md)
 
 ## 🍨 Additional Context
