@@ -31,7 +31,7 @@ We do not recommend this as we've now automated our github development workflow 
 * `mvn clean package`
 * find artifacts in the target directory
 
-### Contributors
+## Contributors
 
 * \*\*\*\*[**HorseNuggets**](https://github.com/HorseNuggets)\*\*\*\*
 * \*\*\*\*[**Legit4K**](https://github.com/Legit4K)\*\*\*\*
