@@ -14,15 +14,15 @@
 
 ### Server Softwares
 
-#### Paper
+#### [Paper](https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/788/downloads/paper-1.16.5-788.jar)
 
 > A high performance fork of Spigot that is generally a good choice for most Minecraft 1.16.5 Servers.
 
-#### Tuinity
+#### [Tuinity](https://ci.codemc.io/job/Spottedleaf/job/Tuinity/lastSuccessfulBuild/artifact/tuinity-paperclip.jar)
 
 > An even more optimized fork designed for high player count servers.
 
-#### Spigot
+#### [Spigot](https://cdn.getbukkit.org/spigot/spigot-1.16.5.jar)
 
 > That one server software that nearly everything is based on. Get's the job done but not recommend for production use.
 
