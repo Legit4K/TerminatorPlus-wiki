@@ -23,6 +23,10 @@ During the Beta phase, Minecraft Server Version **1.16.5** is the single compati
 * Restart your Minecraft Server
 * Try out the `/tplus` command
 
+Alternatively, you can try out the Plugin on my test server. You can join from Minecraft Java 1.16.5 to 1.17.1 and Bedrock 1.17.X
+
+**IP:** **tplus-alpha.tk**
+
 ## Building From Source
 
 {% hint style="warning" %}
