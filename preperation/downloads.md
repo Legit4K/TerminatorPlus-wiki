@@ -12,6 +12,10 @@
 #### I offer Alpha versions to give users early access to things I'm working on, however they may not always be merged into the beta by HorseNuggets.
 {% endhint %}
 
+### Port Forwarding
+
+This can be a complicated step for many people which is why I'm recommending a simple solution that handles this all for you and even automatically updates the IPs whenever ur router changes them. [**Check it out here!**](https://www.noip.com/remote-access/minecraft)\*\*\*\*
+
 ### Installing Java
 
 Generally, you'll want to be using Java 11 or potentially even Java 16 depending on the server software you choose. Make sure to [**read this guide**](https://paper.readthedocs.io/en/latest/java-update/index.html) for a short tutorial on choosing your Java Version.
