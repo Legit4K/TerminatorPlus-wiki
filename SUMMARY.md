@@ -10,6 +10,7 @@
 ## 🍨 Context Guides <a id="additional-context"></a>
 
 * [Explanations](additional-context/explanations.md)
+* [API Support](additional-context/api.md)
 * [Frequently Asked Questions](additional-context/faq.md)
 
 ## 🍰 Social Links
