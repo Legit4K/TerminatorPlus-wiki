@@ -1,5 +1,5 @@
 ---
-description: "Hey humans, I've made this wiki to explain the project to new comers and answer common questions. Let me know how I did by clicking on one of the faces at the bottom of the page \U0001F600"
+description: "Hey humans, I made this wiki to explain the project to new comers and answer common questions. Let me know how I did by clicking on one of the faces at the bottom of the page \U0001F600"
 ---
 
 # Introduction
@@ -13,7 +13,7 @@ description: "Hey humans, I've made this wiki to explain the project to new come
 During the Beta phase, Minecraft Server Version **1.16.5** is the single compatible version. 1.17 support will _likely_ roll out in the first stable release. **Major forks of Spigot 1.16.5 are also compatible!**
 
 {% hint style="success" %}
-### You can choose to run the plugin on a 1.16.5 server and use the [ViaVersion Plugin](https://www.spigotmc.org/resources/viaversion.19254/) to allow 1.17 players to play at the same time!
+### You can choose to run the plugin on a 1.16.5 server and use the [ViaVersion Plugin](https://www.spigotmc.org/resources/viaversion.19254/) to allow 1.17 clients to play at the same time!
 {% endhint %}
 
 ## Getting Started
