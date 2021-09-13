@@ -10,7 +10,7 @@ These are all the commands that are currently available in the plugin. This sect
 
 _Some of these commands are unavailable in the official beta versions of this plugin_
 
-        __`/terminatorplus`
+  `/terminatorplus`
 
 * > View plugin information
   >
@@ -21,6 +21,11 @@ _Some of these commands are unavailable in the official beta versions of this pl
 * > Create a bot based on the block you are looking at.
   >
   > **Example:** `/bot create fat`
+
+  `/bot createAt <name> <X> <Y> <Z>`
+* > Create a bot at the specified coordinates
+  >
+  > **Example:** `/bot createAt bob 420 69 80085`
 
   `/bot multi <amount> <name> [skin]`
 
