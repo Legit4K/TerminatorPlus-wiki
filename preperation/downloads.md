@@ -12,6 +12,10 @@
 #### I offer Alpha versions to give users early access to things I'm working on, however they may not always be merged into the beta by HorseNuggets.
 {% endhint %}
 
+### Installing Java
+
+Generally, you'll want to be using Java 11 or potentially even Java 16 depending on the server software you choose. Make sure to [**read this guide**](https://paper.readthedocs.io/en/latest/java-update/index.html) for a short tutorial on choosing your Java Version.
+
 ### Server Softwares
 
 #### [Paper](https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/788/downloads/paper-1.16.5-788.jar)
