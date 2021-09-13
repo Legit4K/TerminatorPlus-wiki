@@ -20,6 +20,8 @@ This can be a complicated step for many people which is why I'm recommending a s
 
 Generally, you'll want to be using Java 11 or potentially even Java 16 depending on the server software you choose. Make sure to [**read this guide**](https://paper.readthedocs.io/en/latest/java-update/index.html) for a short tutorial on choosing your Java Version.
 
+
+
 ### Server Softwares
 
 #### [Paper](https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/788/downloads/paper-1.16.5-788.jar)
@@ -33,6 +35,8 @@ Generally, you'll want to be using Java 11 or potentially even Java 16 depending
 #### [Spigot](https://cdn.getbukkit.org/spigot/spigot-1.16.5.jar)
 
 > That one server software that nearly everything is based on. Get's the job done but not recommend for production use.
+
+
 
 ### The damn plugin
 
