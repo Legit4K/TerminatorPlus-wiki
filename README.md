@@ -10,7 +10,7 @@ description: "Hey humans, I made this wiki to explain the project to new comers 
 
 ## Supported Versions
 
-During the Beta phase, Minecraft Server Version **1.16.5** is the single compatible version. 1.17 support will _likely_ roll out in the first stable release. **Major forks of Spigot 1.16.5 are also compatible!**
+During the Beta phase, Minecraft Server Version **1.16.5** is the single compatible version. 1.17 support will _likely_  roll out in the first stable release. **Major forks of Spigot 1.16.5 are also compatible!**
 
 {% hint style="success" %}
 ### You can choose to run the plugin on a 1.16.5 server and use the [ViaVersion Plugin](https://www.spigotmc.org/resources/viaversion.19254/) to allow 1.17 clients to play at the same time!
@@ -18,7 +18,7 @@ During the Beta phase, Minecraft Server Version **1.16.5** is the single compati
 
 ## Getting Started
 
-* [Download the plugin](https://discord.gg/horsenuggets)
+* [Download the plugin](https://docs.terminatorplus.tk/preperation/downloads)
 * Put it in server plugins folder
 * Restart your Minecraft Server
 * Try out the `/tplus` command
