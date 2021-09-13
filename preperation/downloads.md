@@ -12,6 +12,22 @@
 #### I offer Alpha versions to give users early access to things I'm working on, however they may not always be merged into the beta by HorseNuggets.
 {% endhint %}
 
+### Server Softwares
+
+#### Paper
+
+> A high performance fork of Spigot that is generally a good choice for most Minecraft 1.16.5 Servers.
+
+#### Tuinity
+
+> An even more optimized fork designed for high player count servers.
+
+#### Spigot
+
+> That one server software that nearly everything is based on. Get's the job done but not recommend for production use.
+
+### The damn plugin
+
 #### [TerminatorPlus 3.3-ALPHA](https://github.com/Legit4K/TerminatorPlus/suites/3686956106/artifacts/89837929)
 
 > Added bot name parameter to apply changes to specific bot
