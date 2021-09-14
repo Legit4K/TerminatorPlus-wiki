@@ -34,31 +34,31 @@ _Some of these commands are unavailable in the official beta versions of this pl
   >
   > **Example:** `/bot multi 10 bob Dream`
 
-  `/bot give <item>`
+  `/bot give <item> [bot-name]`
 
 * > Give the specified item to all bots
   >
   > **Example:** `/bot give netherite_sword`
 
-  `/bot armor <armor-tier>`
+  `/bot armor <armor-tier> [bot-name]`
 
 * > Give the specified armor to all bots
   >
   > **Example:** `/bot armor iron`
 
-  `/bot range <attack-range>`
+  `/bot range <attack-range> [bot-name]`
 
 * > Change how far the bot can reach in combat
   >
   > **Example:** `/bot range 2`
 
-  `/bot block <block>`
+  `/bot block <block> [bot-name]`
 
 * > Change the placement block for all bots
   >
   > **Example:** `/bot block diamond_block`
 
-  `/bot info [name]`
+  `/bot info [bot-name]`
 
 * > Gather information about an existing bot
   >
