@@ -40,7 +40,7 @@ Generally, you'll want to be using Java 11 or potentially even Java 16 depending
 
 ### The damn plugin
 
-#### [TerminatorPlus 3.3-ALPHA](https://github.com/Legit4K/TerminatorPlus/suites/3686956106/artifacts/89837929)
+#### [TerminatorPlus 3.3-ALPHA](https://cdn.discordapp.com/attachments/882077186398494750/884080728130879508/TerminatorPlus-3.3-ALPHA.jar)
 
 > Added bot name parameter to apply changes to specific bot
 >
@@ -52,7 +52,7 @@ Generally, you'll want to be using Java 11 or potentially even Java 16 depending
 >
 > Added `/bot createAt` command to spawn bot at coords
 
-#### [TerminatorPlus 3.2-ALPHA](https://github.com/Legit4K/TerminatorPlus/suites/3682386471/artifacts/89699727)
+#### [TerminatorPlus 3.2-ALPHA](https://cdn.discordapp.com/attachments/871803802456576061/881525326528798780/TerminatorPlus-3.2-ALPHA.jar)
 
 > Added customizable attack ranges
 >
