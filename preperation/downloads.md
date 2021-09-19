@@ -40,6 +40,14 @@ Generally, you'll want to be using Java 11 or potentially even Java 16 depending
 
 ### The damn plugin
 
+#### [TerminatorPlus 3.4-ALPHA](https://cdn.discordapp.com/attachments/882077186398494750/889208677637185597/TerminatorPlus-3.4-ALPHA.jar)
+
+> Added bot respawn mechanic
+>
+> Added `/bot respawn` to disable it
+>
+> Added `/bot spectate` command to spectate a bot
+
 #### [TerminatorPlus 3.3-ALPHA](https://cdn.discordapp.com/attachments/882077186398494750/884080728130879508/TerminatorPlus-3.3-ALPHA.jar)
 
 > Added bot name parameter to apply changes to specific bot
