@@ -10,7 +10,7 @@ These are all the commands that are currently available in the plugin. This sect
 
 _Some of these commands are unavailable in the official beta versions of this plugin_
 
-        __`/terminatorplus`
+  `/terminatorplus`
 
 * > View plugin information
   >
