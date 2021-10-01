@@ -40,6 +40,12 @@ Generally, you'll want to be using Java 11 or potentially even Java 16 depending
 
 ### The damn plugin
 
+#### [TerminatorPlus 3.5-ALPHA](https://cdn.discordapp.com/attachments/871803802456576061/893619593753526322/TerminatorPlus-3.5-ALPHA.jar)
+
+> Implemented Dimensional Travel
+>
+> Added `/bot tp` to teleport to bots
+
 #### [TerminatorPlus 3.4-ALPHA](https://cdn.discordapp.com/attachments/882077186398494750/889208677637185597/TerminatorPlus-3.4-ALPHA.jar)
 
 > Added bot respawn mechanic
