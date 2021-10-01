@@ -68,6 +68,22 @@ _Some of these commands are unavailable in the official beta versions of this pl
 
 * > Remove all loaded bots from the server
 
+  `/bot tp <bot_name>`
+
+* > Teleport to a bot
+  >
+  > **Example:** `/bot tp deez`
+
+  `/bot respawn`
+
+* > Toggle bot respawning
+
+  `/bot spectate <bot_name>`
+
+* > Enter spectator mode and teleport to bot
+  >
+  > **Example:** `/bot spectate bob`
+
   `/bot settings`
 
 * > Change bot behaviour and access plugin config
