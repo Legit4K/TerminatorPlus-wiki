@@ -16,6 +16,6 @@
 ## 🍰 Social Links
 
 * [Discord](https://discord.gg/horsenuggets)
-* [GitHub](https://HorseNuggets/TerminatorPlus)
+* [GitHub](https://github.com/HorseNuggets/TerminatorPlus)
 * [YouTube](https://youtube.com/HorseNuggets)
 
