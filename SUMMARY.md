@@ -18,4 +18,3 @@
 * [Discord](https://discord.gg/horsenuggets)
 * [GitHub](https://github.com/HorseNuggets/TerminatorPlus)
 * [YouTube](https://youtube.com/HorseNuggets)
-
